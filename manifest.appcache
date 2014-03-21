@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+# version 2011-07-012 06:06:44 v1
+
+CACHE:
+
+# html files
+#cards.html
+
+
+# css files
+static/style.css
+
+# images
+static/club.jpg
+static/diamond.jpg
+static/hearts.jpg
+static/spade.jpg
+static/th.jpg
+# misc
+
+
+FALLBACK:
+
+
+NETWORK:
+*
